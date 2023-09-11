@@ -1,0 +1,41 @@
+body{
+    font-size: 14px;
+    font-family: 'roboto';
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+.container{
+    width: 1280px;
+    margin: auto;
+}
+
+.box ul{
+    display: flex;
+ flex-direction: column;
+}
+.box li{
+    background-color: brown;
+    padding: 100px;
+    width: 100px;
+    margin: 10px  5px;
+    
+}
+
+.box-background{
+    background-color: beige;
+}
+
+
+
+
